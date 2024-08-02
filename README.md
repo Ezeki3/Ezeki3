@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-## 🔭 I'm a Systems Engineer and work as a web developer
+## 🔭 I'm a Systems Engineer and work as a Software Developer
 
 
 # 💻 Tech Stack:
