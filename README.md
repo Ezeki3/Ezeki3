@@ -1,4 +1,4 @@
-### Hi my name is Ezequiel Lino, nice to meet you👋
+### Hi, my name is Ezequiel Lino, nice to meet you👋
 
 <!--
 **Ezeki3/Ezeki3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-## 🔭 I'm a Systems Engineer and work as a Software Developer
+## 🔭 I'm a Systems Engineer and work as a Software Developer 
 
 
 # 💻 Tech Stack:
