@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ezeki3&icon=8&color=2)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ezeki3.Ezeki3&"  />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
